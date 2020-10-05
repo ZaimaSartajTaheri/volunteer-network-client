@@ -1,0 +1,20 @@
+.LogInPage{
+    margin:10% 30%;
+    text-align:center;
+    border:1px solid black;
+    border-radius:10px;
+   
+}
+.socialIconButton{
+    margin-top: 2%;
+    border-radius: 100px !important;
+    width: 50%;
+    outline: none;
+}
+.socialIcon{
+    width: 30px;
+}
+.socialIconText{
+    margin-left: 4px;
+}
+
